@@ -1,0 +1,7 @@
+0&altan@gmail.com&Altan Usta&altanusta&558&null&null&false
+1&emre@gmail.com&Emre Hendemoglu&emreharun&561&null&null&false
+2&samet@gmail.com&Samet Kaya&sametkaya&558&null&null&false
+3&berna@hotmail.com&Berna Kiraz&bernakiraz&552&null&null&false
+4&harun@gmail.com&Harun Kaya&harunemre&558&null&null&false
+5&enes@gmail.com&Enes Karaçay&eneskaracay&345&null&null&false
+7&abuzittin@gmail.com&abuzittin&abuzittinkıllıbacak&567&null&null&false

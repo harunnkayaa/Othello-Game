@@ -1,0 +1,12 @@
+Altan Usta: 23
+Emre Hendemoglu: 18
+Harun Kaya: 18
+Samet Kaya: 14
+Berna Kiraz: 22
+Harun Kaya: 31
+Emre Hendemoglu: 15
+Harun Kaya: 21
+Emre Hendemoglu: 16
+Harun Kaya: 20
+Emre Hendemoglu: 14
+Harun Kaya: 22
